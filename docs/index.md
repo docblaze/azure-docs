@@ -1,3 +1,3 @@
-# Some content
+# Home page
 
-Test.
+URL for this page: ~/index.md
