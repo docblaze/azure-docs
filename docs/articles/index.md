@@ -1,3 +1,3 @@
-# This is an article
+# Article 1
 
-Will this be hosted in Azure? Could be! This is dynamically refreshed.
+URL for this page: ~/articles/index.md
